@@ -1,11 +1,11 @@
-package funcionalinterfacebasico;
+package funcionalinterfacebasico.operadores;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
 
-public class PredicateExample {
+public class Predicate_Example {
 
 	public static void main(String[] args) {
 
